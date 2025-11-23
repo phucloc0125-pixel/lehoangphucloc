@@ -1,0 +1,14 @@
+I:\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+I:\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+I:\Bai2\Bai2\bin\Debug\Bai2.exe.config
+I:\Bai2\Bai2\bin\Debug\Bai2.exe
+I:\Bai2\Bai2\bin\Debug\Bai2.pdb
+I:\Bai2\Bai2\obj\Debug\Bai2.exe
+I:\Bai2\Bai2\obj\Debug\Bai2.pdb
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\Users\LENOVO\AppData\Local\Temp\Zalo Temp\be97d39535b698fc2e4ccc3e519578d2~\Bai2\Bai2\obj\Debug\Bai2.pdb
