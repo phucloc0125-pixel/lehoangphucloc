@@ -11,11 +11,11 @@ namespace Bai2
         {
             List<Student> students = new List<Student>();
             {
-                students.Add(new Student("An Nguyen", 16, "S001"));
-                students.Add(new Student("Anh Le", 17, "S002"));
-                students.Add(new Student("Binh Tran", 14, "S003"));
-                students.Add(new Student("Cuong Pham", 19, "S004"));
-                students.Add(new Student("Duc Hoang", 15, "S005"));
+                students.Add(new Student("Huu Tien", 16, "S001"));
+                students.Add(new Student("Huu Thao", 17, "S002"));
+                students.Add(new Student("Phuc Loc", 14, "S003"));
+                students.Add(new Student("Huy Hoang", 19, "S004"));
+                students.Add(new Student("Viet Tien", 15, "S005"));
             }
             ;
             
